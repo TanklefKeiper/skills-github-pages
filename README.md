@@ -7,7 +7,6 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# DCTLs
 
 nothing to find here. Check out the folders
 
